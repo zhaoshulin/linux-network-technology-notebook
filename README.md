@@ -1,4 +1,6 @@
-My Awesome Book
+Linux Network Technology Reading Note
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book is a little reading note when I was reading the book "Linux network technology". Hope you would enjoy it.
+
+
